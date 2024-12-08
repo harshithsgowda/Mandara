@@ -1,2 +1,1 @@
-# Mandara
-Women Safety App
+# WomenSafety
